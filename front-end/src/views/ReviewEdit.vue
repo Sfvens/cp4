@@ -141,7 +141,7 @@ export default {//check
 
         this.addItem = r2.data;
       } catch (error) {
-        console.log(error);
+        // console.log(error);
       }
     },
     async getItems() {
